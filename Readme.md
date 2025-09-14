@@ -905,5 +905,5 @@ The future of AI interaction lies in clear, effective communication—and prompt
 
 ## The 6-Part Prompting Framework
 
-Now take your prompting to next level by following this [The 6-Part Prompting Framework](https://github.com/panaversity/learn-low-code-agentic-ai/blob/main/00_prompt_engineering/six_part_prompting_framework.md)
+Now take your prompting to next level by following this [The 6-Part Prompting Framework](https://github.com/KhurramDevOps/prompt_and_context_engineering/blob/master/six_part_prompting_framework.md)
 
