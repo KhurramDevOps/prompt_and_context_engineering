@@ -1,4 +1,4 @@
-# Prompt and Context Engineering Tutorial for Beginners: A Comprehensive Guide to Effective AI Communication
+# Prompt and Context Engineering Tutorial for Beginners: A Comprehensive Guide to Effective AI Communication!
 
 **[Panaversity YouTube Class Playlist](https://www.youtube.com/playlist?list=PL0vKVrkG4hWpeKmZyCRTpfRiLQ13b5uRX)**
 
