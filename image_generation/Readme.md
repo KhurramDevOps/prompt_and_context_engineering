@@ -2,7 +2,7 @@
 
 *By Example — with Real Prompts and Outputs*
 
-Prompt at https://gemini.google.com/
+Prompt at https://gemini.google.com/ explore this
 
 Google Nano Banana (like MidJourney, DALL·E, or Stable Diffusion) responds to highly descriptive prompts. The more structured, visual, and contextual your input, the closer the output matches your intent.
 
