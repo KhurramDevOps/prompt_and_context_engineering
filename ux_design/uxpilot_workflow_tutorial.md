@@ -104,3 +104,115 @@ If the diagram feels off, you likely:
 Regenerate after correcting selection.
 
 ---
+
+
+## Phase 5 — Plan & Run a UX Workshop (Team Alignment)
+
+1. **Select the diagram + all relevant stickies**.
+2. Open the **Workshops** tab.
+3. Choose a template **or** write a short goal prompt, e.g.:
+
+   * *“Goal: Decide which features to keep for MVP.”*
+   * Duration: **1 hour**, Participants: **5**.
+4. Click **Generate** to get:
+
+   * A 4-activity **agenda**, **facilitator notes**, and a ready-to-send **email template**.
+5. **Add to FigJam**.
+6. Run the session; capture outcomes directly on the board.
+
+**After the workshop**
+
+* Re-synthesize: repeat Phase 2–3 (features + details) to reflect decisions.
+
+---
+
+## Phase 6 — (Optional) Generate Wireframes from the Diagram
+
+1. **Select the diagram** → **Add as Figma Design**.
+2. In Figma, choose a page (e.g., “Home”) and **Generate Wireframe**.
+3. Repeat per page as needed.
+
+> Many teams now skip wireframes if they intend to go straight to hi-fi with UX Pilot Web. Use wireframes only if your team requires them.
+
+---
+
+## Phase 7 — Create a Concise Project Brief (for Hi-Fi)
+
+1. Back in FigJam, **select everything** relevant (final features + details).
+2. In **AI Tools**, run:
+
+   * *“Give me a summary of the app requirements with feature details.”*
+3. Copy the resulting **project brief** (this becomes your single source of truth).
+
+**Tip**
+Aim for one well-structured sticky containing all essential requirements and constraints.
+
+---
+
+## Phase 8 — Generate High-Fidelity UI in UX Pilot Web
+
+1. Open **UX Pilot Web** → **Design** tab → **New Design File**.
+2. In **Page name / Style settings**, specify:
+
+   * **Theme**: e.g., “Dark theme, bold colors.”
+   * **Palette**: name hex values if you have them.
+   * **Typography**: family/weight preferences.
+3. Click **Create** (new project initializes).
+4. **Paste** your **project brief** into the **Context** box.
+5. Settings:
+
+   * **Fidelity**: **Hi-fi design**
+   * **Platform**: **Mobile**
+   * **Deep Design**: **On** (for richer detail)
+6. Click **Autoflow**:
+
+   * UX Pilot proposes the screen map (e.g., Home + \~10–13 pages) and displays total cost.
+7. Click **Generate** to produce the full set.
+
+**Quality checks**
+
+* Open **Preview** to interact (scrollable content, nav).
+* Use **All Design** to scan every page for coverage.
+* Compare screens against the brief and flow diagram.
+
+---
+
+## Phase 9 — Document Prompt History (Your “Design Source”)
+
+* For each screen in UX Pilot Web, open **Prompt History**.
+* **Export or copy** these prompts into your documentation.
+  This is the most reliable way to:
+
+  * Recreate a screen later.
+  * Explain design intent during reviews.
+  * Maintain a change audit.
+
+**Recommendation**
+Create a `Prompts.md` (or a FigJam section) that maps:
+
+* *Screen → Last applied prompt → Rationale/notes*.
+
+---
+
+## Phase 10 — Edit the UI with Natural Language
+
+Two modes:
+
+* **Global Edit** (screen-level):
+
+  * Example: *“Move Participants below the banner; remove the four action buttons.”*
+* **Section Edit** (component-level):
+
+  * Example: Select the “Take a photo” floating button → *“Make it a bright color.”*
+
+**Workflow**
+
+1. Choose **Global** or **Section** edit.
+2. Apply the instruction.
+3. If partially applied, refine:
+
+   * Use **Section Edit** to precisely target areas.
+4. Use **Version History** to revert if needed.
+5. **Preview** after edits to validate hierarchy, contrast, and tap targets.
+
+---
